@@ -1,0 +1,11 @@
+En informatique un arbre binaire de recherche est un arbre binaire dans lequel
+chaque noeud possede une cle. Chaque noeud du sous arbre gauche a une cle
+inferieure ou egale a celle du noeud considere et chaque noeud du sous arbre
+droit possede une cle superieure ou egale a celle ci. On pourra interdire ou non
+des cles de valeur egale. Les noeuds que vous ajoutez deviennent des feuilles
+de votre arbre. On distingue les arbres enracines et les arbres non enracines.
+Le premier type est celui qui nous interessera le plus. Un arbre enracine est un
+arbre hierarchique dans lequel on peut etablir des niveaux. Il ressemblera plus
+a un arbre genealogique. Dans un arbre AVL les hauteurs des deux sous arbres du
+meme noeud different au plus de un et la recherche ou la suppression sont toutes
+en log2N dans le pire des cas.

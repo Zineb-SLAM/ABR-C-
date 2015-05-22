@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1420542941 source:z:\tp04\tp04\liste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1420449184 z:\tp04\tp04\liste.h
+
+1420552452 source:z:\tp04\tp04\outils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+	"liste.h"
+	"outils.h"
+
+1420473094 z:\tp04\tp04\arbre.h
+
+1420473090 z:\tp04\tp04\outils.h
+
+1420555391 source:z:\tp04\tp04\arbre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+	"liste.h"
+	"outils.h"
+
+1420552488 source:z:\tp04\tp04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+	"liste.h"
+	"outils.h"
+
+1420542942 source:c:\users\arekzib\documents\tp04\liste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1420449184 c:\users\arekzib\documents\tp04\liste.h
+
+1420982789 source:c:\users\arekzib\documents\tp04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+	"liste.h"
+	"outils.h"
+
+1420473094 c:\users\arekzib\documents\tp04\arbre.h
+
+1420473090 c:\users\arekzib\documents\tp04\outils.h
+
+1420978575 source:c:\users\arekzib\documents\tp04\outils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+	"liste.h"
+	"outils.h"
+
+1420982702 source:c:\users\arekzib\documents\tp04\arbre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbre.h"
+	"liste.h"
+	"outils.h"
+
